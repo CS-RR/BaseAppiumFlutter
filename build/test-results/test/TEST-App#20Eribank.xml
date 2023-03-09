@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="App Eribank" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-07T04:23:26" hostname="CHBOGML-112701" time="28.303">
+  <properties/>
+  <testcase name="Login to the Eribank application" classname="App Eribank" time="28.303"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[mar 06, 2023 11:23:36 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Login to the Eribank application
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="App Eribank" skipped="0" tests="1" time="13.48" timestamp="2022-04-19 03:40:03"><testcase name="Login to the Eribank application"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.choucair.certification.tasks.Login.performAs(Login.java:26)&#13;
+co.com.choucair.certification.stepdefinitions.EriBankStepDefinitions.lauraLoginWithUsernameAndPassword(EriBankStepDefinitions.java:21)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

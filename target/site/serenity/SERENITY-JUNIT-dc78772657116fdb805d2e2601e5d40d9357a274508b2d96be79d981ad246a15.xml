@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Wordpress application automation" skipped="0" tests="1" time="20.54" timestamp="2022-04-19 11:11:14"><testcase name="Wordpress application authentication"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.choucair.certification.tasks.OpenThe.performAs(OpenThe.java:17)&#13;
+co.com.choucair.certification.stepdefinitions.AuthenticationStepDefinitions.thatBrandonWantsToEnterTheWordpressApplication(AuthenticationStepDefinitions.java:20)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
